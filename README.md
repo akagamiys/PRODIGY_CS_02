@@ -1,3 +1,5 @@
+# Pixel Manipulation for Image Encryption and Decryption
+
 ## Overview
 
 This Python program demonstrates a simple technique to encrypt and decrypt images using basic mathematical operations. The program uses the OpenCV library for image processing and Matplotlib for displaying the images.
